@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2ae9d62cb158fb14c90a7624a7a5a64f
+timeCreated: 1518209000
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selectedBall: {instanceID: 0}
+  - selectedPlat: {instanceID: 0}
+  - ballScrollView: {instanceID: 0}
+  - platScrollView: {instanceID: 0}
+  - ballButton: {instanceID: 0}
+  - platButton: {instanceID: 0}
+  - lockPrefab: {fileID: 1247297934661358, guid: aa378b809f5d08f40b7434a9e09b3a4f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
